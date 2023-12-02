@@ -1,0 +1,1 @@
+$input = Get-Content -Path "input.txt"

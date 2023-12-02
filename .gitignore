@@ -1,0 +1,52 @@
+# General
+*.log
+*.tmp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Go
+/bin/
+/pkg/
+
+# PowerShell
+*.psm1c
+*.psd1c
+*.psc1
+*.ps1xml
+*.clixml
+*.psc2
+*.pssc
+*.psrc
+*.cdxml
+*.tmp
+*.local
+
+# Miscellaneous
+.idea/
+.vscode/
+*.swp
+*~
+
+# Specific file types
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
