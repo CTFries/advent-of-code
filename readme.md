@@ -14,6 +14,7 @@ Moreover, AoC serves as a platform for me to learn new programming languages and
 
 ## Structure
 
+```bash
 Root
 ├── [Year]
 │ ├── Day1
@@ -35,6 +36,7 @@ Root
 │ │ └── [Dependencies if any]
 │ └── ... (and so on for each day)
 └── ... (and so on for other years)
+```
 
 In this structure:
 In this structure:
