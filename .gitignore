@@ -2,6 +2,7 @@
 *.log
 *.tmp
 .DS_Store
+null
 
 # Python
 __pycache__/
