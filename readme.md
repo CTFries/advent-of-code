@@ -1,9 +1,5 @@
 # Advent of Code Solutions Repository
 
-## Introduction
-
-Welcome to my repository where I share my solutions for the Advent of Code challenges, an annual set of Christmas-themed programming puzzles. My solutions range from powershell, go, javascript and python.
-
 ## About the Repository
 
 This repository contains my solutions to the Advent of Code puzzles, which I have completed in various programming languages. I have also included the input data for each day's challenges, as well as any dependencies that are needed to run the solutions.
